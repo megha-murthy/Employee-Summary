@@ -36,4 +36,4 @@ The application :
 Node js, HTML 5, CSS 3, jest, inquirer
  
  ## Screenshots:
-![ ](Employee Summary.png)
+![ ](EmployeeSummary.png)
